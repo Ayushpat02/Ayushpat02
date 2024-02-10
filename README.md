@@ -1,4 +1,4 @@
-### Hi I'm Ayush 👋
+### Hi I'm Ayush 👋. I'm a Computer Science Student at the University of Illinois at Chicago with a concentration in Software Engineering.
 
 As growing up in the technology era, I was fascinated with how rapid technology has advanced, ranging from the different apps that are being developed everyday to the different advancements made AI, Machine Learning, etc.
 
