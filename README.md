@@ -6,5 +6,5 @@ This fascination carried throughout my education at University of Illinois Chica
 
 Now, as I look forward to helping contribute my knowledge and skills, I have improved more on my C++ knowledge, practicing my C and Python knowledge, and have started to learn HTML. I am looking forward to work on projects that has a strong focus on backend by utilizing different data structures and developing algorithms to run a successful program. I am flexible, patient, and ready to contribute to a team's solution.
 
-Skills: Python, C++, C, Linux, GDB
+Skills: Python, C++, C, GDB
 Academic: Algorithms, Data Structures, Debugging, Machine Organization
